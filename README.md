@@ -12,8 +12,9 @@ Controls:
 Use the mouse to highlight code for the AI to focus on
 
 Numpad 1: Activate the AI to listen to you.
-    - After pressing and hearing "How may I help", speak your query.
-    - When you hear "Let me think about that", the AI got your query and will be creating its response to speak back
+After pressing and hearing "How may I help", speak your query.
+When you hear "Let me think about that", the AI got your query and will be creating its response to speak back
+
 Numpad 2: Open the transcript
 
 
