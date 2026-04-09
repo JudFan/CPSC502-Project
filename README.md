@@ -20,9 +20,9 @@ Numpad 2: Open the transcript
 
 
 # Libraries used:
-SpeechRecognition: https://pypi.org/project/SpeechRecognition/ 
-Google Text-to-Speech (gtts): https://pypi.org/project/gTTS/ 
-Playsound: https://pypi.org/project/playsound/
++ SpeechRecognition: https://pypi.org/project/SpeechRecognition/ 
++ Google Text-to-Speech (gtts): https://pypi.org/project/gTTS/ 
++ Playsound: https://pypi.org/project/playsound/
 
 # Repositories Used:
 Template belongs to the Hello World VS Code Extension: 
